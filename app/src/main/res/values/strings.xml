@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Location Application</string>
+    <string name="service_not_available">service_not_available</string>
+    <string name="invalid_lat_long_used">invalid_lat_long_used</string>
+    <string name="no_address_found">no_address_found</string>
+    <string name="address_found">address_found</string>
+    <string name="no_geocoder_available">no_geocoder_available</string>
+    <string name="geofence_transition_invalid_type">geofence_transition_invalid_type</string>
+    <string name="geofence_not_available">geofence_not_available</string>
+    <string name="geofence_too_many_geofences">geofence_too_many_geofences</string>
+    <string name="geofence_too_many_pending_intents">geofence_too_many_pending_intents</string>
+    <string name="unknown_geofence_error">unknown_geofence_error</string>
+    <string name="geofence_transition_entered">geofence_transition_entered</string>
+    <string name="geofence_transition_exited">geofence_transition_entered</string>
+    <string name="unknown_geofence_transition">geofence_transition_entered</string>
+    <string name="geofence_transition_notification_text">geofence_transition_notification_text</string>
+    <string name="not_connected">not_connected</string>
+    <string name="geofences_added">geofences_added</string>
+    <string name="geofences_removed">geofences_removed</string>
+</resources>
